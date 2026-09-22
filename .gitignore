@@ -132,4 +132,4 @@ via*.json
 # Files related to keymap-drawer
 *.svg
 keymap-drawer.json
-
+drawings/
