@@ -23,3 +23,4 @@ RGB_MATRIX_ENABLE = no
 RGBLIGHT_ENABLE = no
 
 SRC += led.c
+CONVERT_TO=liatris
